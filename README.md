@@ -1,2 +1,5 @@
 # TVCode
-Some I made for school and fun! Visit my [website](https://tvc04.github.io/) to view some of my video game creations!
+
+[School Projects](https://github.com/tvc04) (only ones publicly available)
+
+[Website](https://tvc04.github.io/) to view/play some of my video game creations
